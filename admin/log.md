@@ -20,3 +20,9 @@
 
     - Ajout des `logs.md`
     - Ajout de `temp/db/users.sql`
+
+5.  Mauvais upload
+
+6. :red_circle: Revert Upload 
+
+7. :heavy_plus_sign::heavy_plus_sign: Upload de l'archive 
