@@ -23,3 +23,6 @@
 --> Lien entre la DB users et la DB objets 
 
 --> :warning:Pas de liste possible en SQL
+
+
+- Modification des références non valides

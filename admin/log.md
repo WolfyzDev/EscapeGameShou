@@ -26,3 +26,7 @@
 6. :red_circle: Revert Upload 
 
 7. :heavy_plus_sign::heavy_plus_sign: Upload de l'archive 
+
+8. :heavy_plus_sign: Ajout de task.md
+
+9. 
