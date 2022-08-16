@@ -11,7 +11,7 @@ background-size: 50%;
 
 section {
 background-color : #beae8f; 
-border-radius : 50 px
+border-radius : 50 px;
 text-align : justify; 
 width : 100%;
 border : 1 px solid brown;
@@ -26,7 +26,7 @@ font-size : 150%;
 font-family: Calibri,serif; 
 width : 80%;
 padding : 5 px;
-marging-left: 25 px;
+margin-left: 25 px;
 }
 
 @font-face {
