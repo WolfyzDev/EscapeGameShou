@@ -1,0 +1,188 @@
+footer 
+{
+border:10px;
+font-style : italic;
+font-size : 150% ;
+text-align: center;
+font-family: Calibri,serif; 
+background-image : url("Fond3.png");
+background-size: 50%;
+}
+
+section {
+background-color : #beae8f; 
+border-radius : 50 px
+text-align : justify; 
+width : 100%;
+border : 1 px solid brown;
+margin : 12 px;
+padding : 12 px;
+
+}
+
+p {
+display: inline-block; 
+font-size : 150%;
+font-family: Calibri,serif; 
+width : 80%;
+padding : 5 px;
+marging-left: 25 px;
+}
+
+@font-face {
+font-family: 'Policeeow';
+src: url('Freebooterscript.ttf');
+}					
+
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+width: 333px;
+background-color: #7e593f;
+font-family : Policeeow;
+text-align: center;
+font-size : 150%;
+border-radius: 10px; 
+border: 4px double #cccccc; 
+}
+
+
+h1 {
+font-family : Policeeow;
+font-size : 300%;
+font-style : bold;
+text-align : center;
+}
+
+h2 {
+font-family : Policeeow;
+font-size : 200%;
+font-style : bold;
+text-align : center;
+}
+
+header
+{
+background-image : url("Fond3.png");
+background-size: 100%;
+margin : 100 px;
+}
+
+#menu {
+position: absolute;
+top: 200px;
+right: 10px;
+}
+
+#menu {
+padding:0;
+margin:0;
+list-style:none;
+text-align: center;
+width: 333px;
+position: absolute;
+top: 222px;
+right: 10px;
+}
+#menu ul {
+padding:0;
+margin:0;
+list-style:none;
+text-align: center;
+}
+#menu li {
+background-color:#7e593f; 
+margin-bottom:2px;
+box-shadow: 3px 3px 3px #999;
+border-radius: 10px; 
+border: 4px double #cccccc; }
+
+
+#menu li li {
+max-height:0;
+overflow: hidden;
+transition: all .5s;
+border-radius:0;
+background: #7e593f;
+box-shadow: none;
+border:none;
+margin:0
+
+}
+#menu a {
+display:block;
+text-decoration: none;
+color: #fff;
+padding: 8px 0;
+font-family: Policeeow;
+font-size:200%
+
+}
+
+#menu ul li a, #menu li:hover li a {
+font-size:1em
+}
+#menu li:hover {
+background: #af9066
+}
+#menu li li:hover {
+background:#af9066
+
+
+}
+#menu ul li:last-child {
+border-radius: 0 0 6px 6px;
+border:none;
+}
+#menu li:hover li {
+max-height: 15em;
+}
+
+
+
+button 
+{ display: inline-block; 
+background-color: #7e593f; 
+border-radius: 10px; 
+border: 4px double #cccccc; 
+color: #eeeeee; 
+text-align: center; 
+font-size: 18px; 
+font-family : Fantasy, serif;
+padding: 8px 10px; 
+width: 100px; 
+transition: all 0.5s; 
+cursor: pointer; 
+margin: 5px; 
+} 
+
+button span 
+{ cursor: pointer;
+display: inline-block; 
+position: relative;
+transition: 0.5s; 
+} 
+
+button span:after 
+{ content: "\00bb"; 
+position: absolute; 
+opacity: 0; 
+top: 0; 
+right: -20px; 
+transition: 0.5s; 
+} 
+
+button:hover { 
+background-color: #af9066; 
+} 
+
+button:hover span { 
+padding-right: 25px; 
+} 
+
+button:hover span:after { 
+opacity: 1; 
+right: 0;
+} 
+
