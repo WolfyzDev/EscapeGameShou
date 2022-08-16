@@ -20,3 +20,5 @@
 
     - Ajout des `logs.md`
     - Ajout de `temp/db/users.sql`
+
+5. :heavy_plus_sign: Ajout de `admin/task.md` (admin)
