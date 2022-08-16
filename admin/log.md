@@ -33,3 +33,5 @@
 
     - Ajout de `user.sql` et `objets.sql`
     - Ajout des fichiers erronés dans `errors/`
+
+10. :large_orange_diamond: Patch caractère nom des fichiers > Name fichiers
