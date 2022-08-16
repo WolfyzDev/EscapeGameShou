@@ -29,4 +29,7 @@
 
 8. :heavy_plus_sign: Ajout de task.md
 
-9. 
+9. :heavy_plus_sign: Ajout SQL > Table user & objet
+
+    - Ajout de `user.sql` et `objets.sql`
+    - Ajout des fichiers erronés dans `errors/`
