@@ -35,3 +35,8 @@
     - Ajout des fichiers erronés dans `errors/`
 
 10. :large_orange_diamond: Patch caractère nom des fichiers > Name fichiers
+
+11. :heavy_plus_sign: Ajout des fichiers de connexion
+
+		- Ajout de `./admin/temp/back`
+		- Ajout de la configuration IDE
