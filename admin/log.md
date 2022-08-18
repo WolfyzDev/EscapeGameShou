@@ -10,7 +10,7 @@
 
 3. :large_orange_diamond: Patch correctif CSS
 
-    - Patch sur `style.css` 
+    - Patch sur `style.css`
         ```css
         border-radius : 50 px; /* L.14, le ; manquant */
         margin-left: 25 px; /* L. 29, le g au bout de marging */
@@ -21,11 +21,11 @@
     - Ajout des `logs.md`
     - Ajout de `temp/db/users.sql`
 
-5.  Mauvais upload
+5. Mauvais upload
 
-6. :red_circle: Revert Upload 
+6. :red_circle: Revert Upload
 
-7. :heavy_plus_sign::heavy_plus_sign: Upload de l'archive 
+7. :heavy_plus_sign::heavy_plus_sign: Upload de l'archive
 
 8. :heavy_plus_sign: Ajout de task.md
 
@@ -38,5 +38,5 @@
 
 11. :heavy_plus_sign: Ajout des fichiers de connexion
 
-		- Ajout de `./admin/temp/back`
-		- Ajout de la configuration IDE
+    	- Ajout de `./admin/temp/back`
+    	- Ajout de la configuration IDE
