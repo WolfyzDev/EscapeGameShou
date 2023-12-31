@@ -40,3 +40,9 @@
 
 		- Ajout de `./admin/temp/back`
 		- Ajout de la configuration IDE
+12. :trident: Refractor
+
+13. :small_red_triangle: Rajout du dossier `test` (invalid)
+
+   - Rajout des fichiers de connexion et d'inscription (PHP) > Non testé
+   - Rajout du fichier SQL (invalide)g
